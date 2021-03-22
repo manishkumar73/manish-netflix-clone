@@ -1,2 +1,2 @@
 # manish-netflix-clone
-netflix-clone-55c6b.web.app
+# netflix-clone-55c6b.web.app
